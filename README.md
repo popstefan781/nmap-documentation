@@ -4,8 +4,6 @@ NMAP network enumeration
 This repo represents a nmap documentation for network enumeration
 
 
-# HackTheBox
-
 # Network Enumaration (nmap)
 
 - Audit the security aspects of networks
