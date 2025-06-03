@@ -107,8 +107,7 @@ into which these scripts can be divided:
 | **Category** | **Description** |
 | --- | --- |
 | `auth` | Determination of authentication credentials. |
-| `broadcast` | Scripts, which are used for host discovery by broadcasting and the 
-discovered hosts, can be automatically added to the remaining scans. |
+| `broadcast` | Scripts, which are used for host discovery by broadcasting and the discovered hosts, can be automatically added to the remaining scans. |
 | `brute` | Executes scripts that try to log in to the respective service by brute-forcing with credentials. |
 | `default` | Default scripts executed by using the `-sC` option. |
 | `discovery` | Evaluation of accessible services. |
